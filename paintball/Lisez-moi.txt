@@ -1,0 +1,27 @@
+﻿Esx Paintball par @EagleOne et @QcLiquid (MAP)
+
+L'ARME DE PAINTBALL REMPLACE LE DESERT EAGLE (PISTOL50) ENLEVEZ LE DU MAGASIN SI VOUS L'AVEZ.
+L'ARME DE PAINTBALL TIRE DE VRAI BALLE.
+
+Mod qui ajoute l'activité de paintball a votre serveur ESX.
+Les joueurs doivent vider leur inventaire et enlever leurs armes. Sinon l'inventaire sera PERDU.
+Le téléporteur se trouve à la prison et le terrain n'est pas très loin.
+pour changer le téléporteur, changez les coordonnées de home et homeblip pour le nouvel emplacement dans le fichier client/main.lua.
+En choissisant l'équipe, le joueur change de skin et devient en première personne. S'il quitte le terrain il redevient en tenue civil.
+
+Vous devez ajouter ces ressources à votre server.cfg pour que la ressource fonctionne.
+
+start paintball_map
+start esx_paintball
+start gun
+start InteractSound
+
+Vous pouvez faire se que vous voulez avec la ressource modifier, partager etc.
+
+Je n'offre pas de support pour cette ressource, je la partage car elle amasse la poussière
+sur mon disque dur et je crois que quelqu'un pourrait en profiter.
+
+Un merci à QcLiquid qui a fait le terrain de paintball.
+J'ai aussi un script de courses de kart si vous êtes interessés !
+
+Bon paintball !

@@ -1,0 +1,2 @@
+# paintgame_fivem
+paint
